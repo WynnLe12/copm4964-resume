@@ -4,6 +4,6 @@ dist/
 .env.*
 !.env.example
 .DS_Store
+*.log
 .vscode/
-coverage/
-npm-debug.log*
+.idea/
