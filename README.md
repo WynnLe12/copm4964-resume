@@ -56,7 +56,6 @@ copm4964-resume/
 │   ├── App.jsx
 │   ├── main.jsx
 │   └── styles.css
-├── public/
 ├── tests/
 │   └── website.test.js
 ├── index.html
