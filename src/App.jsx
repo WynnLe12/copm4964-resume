@@ -26,7 +26,7 @@ export default function App() {
       <main>
         <section id="home" className="hero container">
           <div className="hero-copy">
-            <span className="eyebrow">HELLO, I'm Wynn Le</span>
+            <span className="eyebrow">HELLO, I'm Thi Thao Uyen Le</span>
             <h1>Thi Thao Uyen Le<span className="accent">.</span></h1>
             <p className="hero-role">Software Developer <span>/</span> Cloud Enthusiast</p>
             <p className="hero-description">I build thoughtful digital experiences, explore cloud technologies, and enjoy turning ideas into reliable software.</p>
